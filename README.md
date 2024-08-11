@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @bjoongyoung
-- 👀 I’m interested in Flutter
-- 🌱 I’m currently learning Flutter Framework & Dart programming language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, My name is Joongyoung Bae
+-  I’m interested in Flutter.
+-  I’m currently learning Flutter Framework to create great apps.
 
 <!---
 bjoongyoung/bjoongyoung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

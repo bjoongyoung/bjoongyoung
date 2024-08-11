@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Joongyoung Bae
+- 👋 Hi, My name is Joonyoung Bae
 -  I’m interested in Flutter.
 -  I’m currently learning Flutter Framework to create great apps.
 
